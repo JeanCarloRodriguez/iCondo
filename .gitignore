@@ -2,3 +2,4 @@ db.sqlite3
 Condo/__pycache__/
 iCondo/__pycache__/
 iCondo/migrations/
+*.pyc
