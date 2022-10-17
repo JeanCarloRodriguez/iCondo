@@ -3,8 +3,6 @@ from django.db import models
 from django.contrib.auth.models import AbstractUser
 
 class User(AbstractUser):
-    ci = models.IntegerField(max_length=8)
-#    list_display = ("username", "first_name", "last_name", "ci", "email")
     pass
 
 class Common_Areas(models.Model):
